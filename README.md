@@ -6,4 +6,4 @@ _Using italic using ctrl+i_
 
 **Bold letter using ctrl+b**
 
-> quote text
+**> quote text**
