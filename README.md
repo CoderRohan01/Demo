@@ -1,6 +1,6 @@
 # Demo
-This is my first git repo
-<br>
+_Using italic using ctrl+i_
+**<br>
  ## Author: Rohan Pendse
 <br>
 
