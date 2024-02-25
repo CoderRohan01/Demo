@@ -1,6 +1,6 @@
 # Demo
 This is my first git repo
 <br>
-* ## Author: Rohan Pendse
+ ## Author: Rohan Pendse
 <br>
 
