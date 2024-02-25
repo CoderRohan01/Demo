@@ -4,5 +4,8 @@ This is my first git repo
 ## Author: Rohan Pendse
 <br>
 
-* unordered list l1
-* l2
+1. MongoDb
+2. Express
+3. ReactJS
+4. NodeJs
+5. 
